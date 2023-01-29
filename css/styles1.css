@@ -1,0 +1,25 @@
+/******************************TAG SELECTORS***************************/
+
+h1{
+    color: red;
+    font-size: 200px;
+ }
+img:hover{
+    background-color: gold;
+} 
+
+/*******************************CLASS SELECTORS*************************/
+
+.Chicken{
+    background-color: green;
+}
+
+.Capsicum{
+    background-color: burlywood;
+}
+
+/**********************************ID SELECTORS**************************/
+
+#heading{
+    color: blue;
+}
